@@ -7,11 +7,11 @@ The easiest way to install this app is by adding the Snips app [Assistant inform
 ## Usage
 This app recognizes the following intents:
 
-* koan:AssistantID - The user asks the assistant's ID.
-* koan:AssistantPlatform - The user asks what platform the assistant is running on.
-* koan:AssistantName - The user asks what the assistant's name is.
-* koan:AssistantApps - The user asks which apps the assistant has.
-* koan:AssistantIntents - The user asks the assistant how many intents it understands.
+  * koan:AssistantID - The user asks the assistant's ID.
+  * koan:AssistantPlatform - The user asks what platform the assistant is running on.
+  * koan:AssistantName - The user asks what the assistant's name is.
+  * koan:AssistantApps - The user asks which apps the assistant has.
+  * koan:AssistantIntents - The user asks the assistant how many intents it understands.
 
 ## Copyright
 This app is provided by [Koen Vervloesem](mailto:koen@vervloesem.eu) as open source software. See LICENSE for more information.
