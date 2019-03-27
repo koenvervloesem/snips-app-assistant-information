@@ -43,7 +43,8 @@ class AssistantInformation(HermesSnipsApp):
     @intent(i18n.INTENT_ASSISTANT_PLATFORM)
     def handle_assistant_platform(self, hermes, intent_message):
         """Handle the intent AssistantPlatform."""
-        platform = self.assistant['platform']['type']
+        platform = self.assistant['platform']['type'].replace('raspberrypi',
+                                                              'Raspberry Pi')
 
         result_sentence = i18n.RESULT_ASSISTANT_PLATFORM.format(platform)
         hermes.publish_end_session(intent_message.session_id, result_sentence)
