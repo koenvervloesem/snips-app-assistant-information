@@ -6,6 +6,7 @@ assistant.
 
 import importlib
 from pathlib import Path
+from subprocess import check_output
 
 from snipskit.config import AssistantConfig
 from snipskit.hermes.apps import HermesSnipsApp
@@ -14,11 +15,23 @@ from snipskit.hermes.decorators import intent
 # Use the assistant's language.
 i18n = importlib.import_module('translations.' + AssistantConfig()['language'])
 
+# Command to check the Snips version
+SNIPS_VERSION_COMMAND = ['snips-skill-server', '--version']
+
 
 class AssistantInformation(HermesSnipsApp):
     """
     This app answers questions about your Snips assistant.
     """
+
+    @intent(i18n.INTENT_SNIPS_VERSION)
+    def handle_snips_version(self, hermes, intent_message):
+        """Handle the intent SnipsVersion."""
+        version_string = check_output(SNIPS_VERSION_COMMAND).decode('utf-8')
+        snips_version = version_string.strip().split(' ', 1)[1]
+
+        result_sentence = i18n.RESULT_SNIPS_VERSION.format(snips_version)
+        hermes.publish_end_session(intent_message.session_id, result_sentence)
 
     @intent(i18n.INTENT_ASSISTANT_ID)
     def handle_assistant_id(self, hermes, intent_message):
