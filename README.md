@@ -12,11 +12,12 @@ The easiest way to install this app is by adding the Snips app [Assistant inform
 
 This app recognizes the following intents:
 
-*   koan:AssistantID - The user asks the assistant's ID.
-*   koan:AssistantPlatform - The user asks what platform the assistant is running on.
-*   koan:AssistantName - The user asks what the assistant's name is.
 *   koan:AssistantApps - The user asks which apps the assistant has.
+*   koan:AssistantID - The user asks the assistant's ID.
 *   koan:AssistantIntents - The user asks the assistant how many intents it understands.
+*   koan:AssistantName - The user asks what the assistant's name is.
+*   koan:AssistantPlatform - The user asks what platform the assistant is running on.
+*   koan:IPAddress - The user asks the assistant what IP address the Snips machine has on the local network.
 *   koan:SnipsVersion - The user asks the assistant what version of Snips it is running.
 
 ## Copyright
