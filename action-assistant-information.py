@@ -90,6 +90,13 @@ class AssistantInformation(HermesSnipsApp):
         result_sentence = i18n.RESULT_ASSISTANT_PLATFORM.format(platform)
         hermes.publish_end_session(intent_message.session_id, result_sentence)
 
+    @intent(i18n.INTENT_HOSTNAME)
+    def handle_hostname(self, hermes, intent_message):
+        """Handle the intent Hostname."""
+
+        result_sentence = i18n.RESULT_HOSTNAME.format(socket.gethostname())
+        hermes.publish_end_session(intent_message.session_id, result_sentence)
+
     @intent(i18n.INTENT_IP_ADDRESS)
     def handle_ip_address(self, hermes, intent_message):
         """Handle the intent IPAddress."""
