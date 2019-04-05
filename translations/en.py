@@ -14,6 +14,9 @@ RESULT_IP_ADDRESS = "My IP address is {}."
 RESULT_SNIPS_VERSION = "I'm running Snips version {}."
 AND = ", and "
 
+# TTS workarounds
+REPLACE_TTS_RASPI = "Raspberry Pi"
+
 # Intents
 INTENT_ASSISTANT_APPS = 'koan:AssistantApps'
 INTENT_ASSISTANT_ID = 'koan:AssistantID'

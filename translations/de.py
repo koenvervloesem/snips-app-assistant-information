@@ -14,6 +14,7 @@ RESULT_IP_ADDRESS = "Meine IP Adresse ist {}."
 RESULT_SNIPS_VERSION = "Ich laufe mit Snips version {}."
 AND = ", und "
 
+# TTS workarounds
 REPLACE_TTS_RASPI = "Raspberrie Pei"
 
 # Intents
