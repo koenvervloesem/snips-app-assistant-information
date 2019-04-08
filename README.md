@@ -6,20 +6,23 @@ With this [Snips](https://snips.ai/) app, you can ask some information about you
 
 ## Installation
 
-The easiest way to install this app is by adding the Snips app [Assistant information](https://console.snips.ai/store/en/skill_MxzdQxPxXZW) to your assistant in the [Snips Console](https://console.snips.ai).
+The easiest way to install this app is by adding the corresponding Snips app to your assistant in the [Snips Console](https://console.snips.ai):
+
+*   English: [Assistant information](https://console.snips.ai/store/en/skill_MxzdQxPxXZW)
+*   German: [Assistents Informationen](https://console.snips.ai/store/de/skill_bgg1mzp7EB2)
 
 ## Usage
 
 This app recognizes the following intents:
 
-*   koan:AssistantApps - The user asks which apps the assistant has.
-*   koan:AssistantID - The user asks the assistant's ID.
-*   koan:AssistantIntents - The user asks the assistant how many intents it understands.
-*   koan:AssistantName - The user asks what the assistant's name is.
-*   koan:AssistantPlatform - The user asks what platform the assistant is running on.
-*   koan:Hostname- The user asks the assistant what hostname the Snips machine has on the local network.
-*   koan:IPAddress - The user asks the assistant what IP address the Snips machine has on the local network.
-*   koan:SnipsVersion - The user asks the assistant what version of Snips it is running.
+*   AssistantApps - The user asks which apps the assistant has.
+*   AssistantID - The user asks the assistant's ID.
+*   AssistantIntents - The user asks the assistant how many intents it understands.
+*   AssistantName - The user asks what the assistant's name is.
+*   AssistantPlatform - The user asks what platform the assistant is running on.
+*   Hostname- The user asks the assistant what hostname the Snips machine has on the local network.
+*   IPAddress - The user asks the assistant what IP address the Snips machine has on the local network.
+*   SnipsVersion - The user asks the assistant what version of Snips it is running.
 
 ## Copyright
 
