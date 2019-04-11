@@ -9,12 +9,12 @@ from pathlib import Path
 import socket
 from subprocess import check_output
 
-from snipskit.config import AssistantConfig
+from snipskit.apps import SnipsAppMixin
 from snipskit.hermes.apps import HermesSnipsApp
 from snipskit.hermes.decorators import intent
 
 # Use the assistant's language.
-i18n = importlib.import_module('translations.' + AssistantConfig()['language'])
+i18n = importlib.import_module('translations.' + SnipsAppMixin().assistant['language'])
 
 # Command to check the Snips version
 SNIPS_VERSION_COMMAND = ['snips-skill-server', '--version']
