@@ -1,1 +1,1 @@
-snipskit[hermes]==0.5.3
+snipskit[hermes]==0.5.4

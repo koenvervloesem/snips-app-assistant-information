@@ -12,10 +12,35 @@ RESULT_ASSISTANT_PLATFORM = "I'm running on the {} platform."
 RESULT_HOSTNAME = "My hostname is {}."
 RESULT_IP_ADDRESS = "My IP address is {}."
 RESULT_SNIPS_VERSION = "I'm running Snips version {}."
+RESULT_NEWER_VERSION_AVAILABLE = "There's a newer version available."
+RESULT_LATEST_SNIPS_VERSION = "The latest Snips version is {}."
+RESULT_NOT_UP_TO_DATE = "I'm still running an older version."
 AND = ", and "
 
 # TTS workarounds
 REPLACE_TTS_RASPI = "Raspberry Pi"
+
+def tts_ip_address(ip_address):
+    """Convert an IP address to something the TTS will pronounce correctly.
+
+    Args:
+        ip_address (str): The IP address, e.g. '102.168.0.102'
+
+    Returns:
+        str: A pronounceable IP address, e.g. '192 dot 168 dot 0 dot 102'
+    """
+    return ip_address.replace('.', ' dot ')
+
+def tts_version(version):
+    """Convert a version string to something the TTS will pronounce correctly.
+
+    Args:
+        version (str): The version string, e.g. '1.1.2'
+
+    Returns:
+        str: A pronounceable version string, e.g. '1 point 1 point 2'
+    """
+    return version.replace('.', ' point ')
 
 # Intents
 INTENT_ASSISTANT_APPS = 'koan:AssistantApps'
@@ -25,4 +50,5 @@ INTENT_ASSISTANT_NAME = 'koan:AssistantName'
 INTENT_ASSISTANT_PLATFORM = 'koan:AssistantPlatform'
 INTENT_HOSTNAME = 'koan:Hostname'
 INTENT_IP_ADDRESS = 'koan:IPAddress'
+INTENT_LATEST_SNIPS_VERSION = 'koan:LatestSnipsVersion'
 INTENT_SNIPS_VERSION = 'koan:SnipsVersion'

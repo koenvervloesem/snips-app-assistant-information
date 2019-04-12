@@ -12,6 +12,7 @@ from snipskit.apps import SnipsAppMixin
 from snipskit.hermes.apps import HermesSnipsApp
 from snipskit.hermes.decorators import intent
 from snipskit.services import version
+from snipskit.tools import latest_snips_version
 
 # Use the assistant's language.
 i18n = importlib.import_module('translations.' + SnipsAppMixin().assistant['language'])
@@ -110,13 +111,27 @@ class AssistantInformation(HermesSnipsApp):
         finally:
             s.close()
 
-        result_sentence = i18n.RESULT_IP_ADDRESS.format(ip_address)
+        result_sentence = i18n.RESULT_IP_ADDRESS.format(i18n.tts_ip_address(ip_address))
         hermes.publish_end_session(intent_message.session_id, result_sentence)
 
     @intent(i18n.INTENT_SNIPS_VERSION)
     def handle_snips_version(self, hermes, intent_message):
         """Handle the intent SnipsVersion."""
-        result_sentence = i18n.RESULT_SNIPS_VERSION.format(version())
+        installed = version()
+        latest = latest_snips_version()
+        result_sentence = i18n.RESULT_SNIPS_VERSION.format(i18n.tts_version(installed))
+        if installed < latest:
+            result_sentence += i18n.RESULT_NEWER_VERSION_AVAILABLE
+        hermes.publish_end_session(intent_message.session_id, result_sentence)
+
+    @intent(i18n.INTENT_LATEST_SNIPS_VERSION)
+    def handle_latest_snips_version(self, hermes, intent_message):
+        """Handle the intent LatestSnipsVersion."""
+        installed = version()
+        latest = latest_snips_version()
+        result_sentence = i18n.RESULT_LATEST_SNIPS_VERSION.format(i18n.tts_version(latest))
+        if installed < latest:
+            result_sentence += i18n.RESULT_NOT_UP_TO_DATE
         hermes.publish_end_session(intent_message.session_id, result_sentence)
 
 
