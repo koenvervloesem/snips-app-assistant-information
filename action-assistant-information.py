@@ -154,7 +154,7 @@ class AssistantInformation(HermesSnipsApp):
                 result_sentence = i18n.RESULT_NOT_UPDATED.format(i18n.tts_version(installed),
                                                                  i18n.tts_version(latest))
             else:
-                result_sentence = i18n.RESULT_UPDATED
+                result_sentence = i18n.RESULT_UPDATED.format(i18n.tts_version(installed))
         except URLError:
             result_sentence = i18n.RESULT_NO_RELEASE_NOTES
 
