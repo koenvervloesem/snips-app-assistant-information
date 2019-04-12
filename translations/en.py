@@ -15,6 +15,7 @@ RESULT_SNIPS_VERSION = "I'm running Snips version {}."
 RESULT_NEWER_VERSION_AVAILABLE = "There's a newer version available."
 RESULT_LATEST_SNIPS_VERSION = "The latest Snips version is {}."
 RESULT_NOT_UP_TO_DATE = "I'm still running an older version."
+RESULT_NO_RELEASE_NOTES = "I'm sorry, I can't access the release notes of Snips."
 AND = ", and "
 
 # TTS workarounds

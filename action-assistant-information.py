@@ -7,6 +7,7 @@ assistant.
 import importlib
 from pathlib import Path
 import socket
+from urllib.error import URLError
 
 from snipskit.apps import SnipsAppMixin
 from snipskit.hermes.apps import HermesSnipsApp
@@ -118,20 +119,29 @@ class AssistantInformation(HermesSnipsApp):
     def handle_snips_version(self, hermes, intent_message):
         """Handle the intent SnipsVersion."""
         installed = version()
-        latest = latest_snips_version()
         result_sentence = i18n.RESULT_SNIPS_VERSION.format(i18n.tts_version(installed))
-        if installed < latest:
-            result_sentence += i18n.RESULT_NEWER_VERSION_AVAILABLE
+
+        try:
+            latest = latest_snips_version()
+            if installed < latest:
+                result_sentence += i18n.RESULT_NEWER_VERSION_AVAILABLE
+        except URLError:
+            pass  # The user didn't ask for the latest version, so ignore it.
+
         hermes.publish_end_session(intent_message.session_id, result_sentence)
 
     @intent(i18n.INTENT_LATEST_SNIPS_VERSION)
     def handle_latest_snips_version(self, hermes, intent_message):
         """Handle the intent LatestSnipsVersion."""
-        installed = version()
-        latest = latest_snips_version()
-        result_sentence = i18n.RESULT_LATEST_SNIPS_VERSION.format(i18n.tts_version(latest))
-        if installed < latest:
-            result_sentence += i18n.RESULT_NOT_UP_TO_DATE
+        try:
+            latest = latest_snips_version()
+            installed = version()
+            result_sentence = i18n.RESULT_LATEST_SNIPS_VERSION.format(i18n.tts_version(latest))
+            if installed < latest:
+                result_sentence += i18n.RESULT_NOT_UP_TO_DATE
+        except URLError:
+            result_sentence = i18n.RESULT_NO_RELEASE_NOTES
+
         hermes.publish_end_session(intent_message.session_id, result_sentence)
 
 
