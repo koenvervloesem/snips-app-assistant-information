@@ -14,8 +14,10 @@ RESULT_IP_ADDRESS = "My IP address is {}."
 RESULT_SNIPS_VERSION = "I'm running Snips version {}."
 RESULT_NEWER_VERSION_AVAILABLE = "There's a newer version available."
 RESULT_LATEST_SNIPS_VERSION = "The latest Snips version is {}."
-RESULT_NOT_UP_TO_DATE = "I'm still running an older version."
+RESULT_OLDER = "I'm still running an older version."
 RESULT_NO_RELEASE_NOTES = "I'm sorry, I can't access the release notes of Snips."
+RESULT_UPDATED = "I'm running the latest Snips version, {}."
+RESULT_NOT_UPDATED = "I'm still running Snips version {}, while version {} is already available."
 AND = ", and "
 
 # TTS workarounds
@@ -52,4 +54,5 @@ INTENT_ASSISTANT_PLATFORM = 'koan:AssistantPlatform'
 INTENT_HOSTNAME = 'koan:Hostname'
 INTENT_IP_ADDRESS = 'koan:IPAddress'
 INTENT_LATEST_SNIPS_VERSION = 'koan:LatestSnipsVersion'
+INTENT_LATEST_SNIPS_VERSION_RUNNING = 'koan:LatestSnipsVersionRunning'
 INTENT_SNIPS_VERSION = 'koan:SnipsVersion'

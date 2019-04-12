@@ -138,7 +138,23 @@ class AssistantInformation(HermesSnipsApp):
             installed = version()
             result_sentence = i18n.RESULT_LATEST_SNIPS_VERSION.format(i18n.tts_version(latest))
             if installed < latest:
-                result_sentence += i18n.RESULT_NOT_UP_TO_DATE
+                result_sentence += i18n.RESULT_OLDER
+        except URLError:
+            result_sentence = i18n.RESULT_NO_RELEASE_NOTES
+
+        hermes.publish_end_session(intent_message.session_id, result_sentence)
+
+    @intent(i18n.INTENT_LATEST_SNIPS_VERSION_RUNNING)
+    def handle_latest_snips_version_running(self, hermes, intent_message):
+        """Handle the intent LatestSnipsVersionRunning."""
+        try:
+            latest = latest_snips_version()
+            installed = version()
+            if installed < latest:
+                result_sentence = i18n.RESULT_NOT_UPDATED.format(i18n.tts_version(installed),
+                                                                 i18n.tts_version(latest))
+            else:
+                result_sentence = i18n.RESULT_UPDATED
         except URLError:
             result_sentence = i18n.RESULT_NO_RELEASE_NOTES
 
