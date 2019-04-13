@@ -18,6 +18,7 @@ RESULT_OLDER = "I'm still running an older version."
 RESULT_NO_RELEASE_NOTES = "I'm sorry, I can't access the release notes of Snips."
 RESULT_UPDATED = "I'm running the latest Snips version, {}."
 RESULT_NOT_UPDATED = "I'm still running Snips version {}, while version {} is already available."
+RESULT_UPTIME = "I have been awake since {}."
 AND = ", and "
 
 # TTS workarounds
@@ -56,3 +57,4 @@ INTENT_IP_ADDRESS = 'koan:IPAddress'
 INTENT_LATEST_SNIPS_VERSION = 'koan:LatestSnipsVersion'
 INTENT_LATEST_SNIPS_VERSION_RUNNING = 'koan:LatestSnipsVersionRunning'
 INTENT_SNIPS_VERSION = 'koan:SnipsVersion'
+INTENT_UPTIME = 'koan:Uptime'

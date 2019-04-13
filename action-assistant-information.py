@@ -4,10 +4,14 @@ This module contains a Snips app that answers questions about your Snips
 assistant.
 """
 
+from datetime import datetime
 import importlib
 from pathlib import Path
 import socket
 from urllib.error import URLError
+
+import arrow
+from psutil import boot_time
 
 from snipskit.apps import SnipsAppMixin
 from snipskit.hermes.apps import HermesSnipsApp
@@ -158,6 +162,15 @@ class AssistantInformation(HermesSnipsApp):
         except URLError:
             result_sentence = i18n.RESULT_NO_RELEASE_NOTES
 
+        hermes.publish_end_session(intent_message.session_id, result_sentence)
+
+    @intent(i18n.INTENT_UPTIME)
+    def handle_uptime(self, hermes, intent_message):
+        """Handle the intent Uptime."""
+        boot_time = datetime.fromtimestamp(boot_time())
+        uptime = arrow.get(boot_time).humanize(locale=self.assistant['language'])
+
+        result_sentence = i18n.RESULT_UPTIME.format(uptime)
         hermes.publish_end_session(intent_message.session_id, result_sentence)
 
 
