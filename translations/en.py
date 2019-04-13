@@ -18,7 +18,7 @@ RESULT_OLDER = "I'm still running an older version."
 RESULT_NO_RELEASE_NOTES = "I'm sorry, I can't access the release notes of Snips."
 RESULT_UPDATED = "I'm running the latest Snips version, {}."
 RESULT_NOT_UPDATED = "I'm still running Snips version {}, while version {} is already available."
-RESULT_UPTIME = "I awoke {}."
+RESULT_UPTIME = "I woke up {}."
 AND = ", and "
 
 # TTS workarounds
