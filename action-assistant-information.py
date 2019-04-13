@@ -11,7 +11,7 @@ import socket
 from urllib.error import URLError
 
 import arrow
-from psutil import boot_time
+import psutil
 
 from snipskit.apps import SnipsAppMixin
 from snipskit.hermes.apps import HermesSnipsApp
@@ -167,7 +167,7 @@ class AssistantInformation(HermesSnipsApp):
     @intent(i18n.INTENT_UPTIME)
     def handle_uptime(self, hermes, intent_message):
         """Handle the intent Uptime."""
-        boot_time = datetime.fromtimestamp(boot_time())
+        boot_time = datetime.fromtimestamp(psutil.boot_time())
         uptime = arrow.get(boot_time).humanize(locale=self.assistant['language'])
 
         result_sentence = i18n.RESULT_UPTIME.format(uptime)
