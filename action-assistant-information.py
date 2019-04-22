@@ -116,14 +116,22 @@ class AssistantInformation(HermesSnipsApp):
         finally:
             s.close()
 
-        result_sentence = i18n.RESULT_IP_ADDRESS.format(i18n.tts_ip_address(ip_address))
+        try:
+            result_sentence = i18n.RESULT_IP_ADDRESS.format(i18n.tts_ip_address(ip_address))
+        except AttributeError:  # tts_ip_address not defined for this language
+            result_sentence = i18n.RESULT_IP_ADDRESS.format(ip_address)
+
         hermes.publish_end_session(intent_message.session_id, result_sentence)
 
     @intent(i18n.INTENT_SNIPS_VERSION)
     def handle_snips_version(self, hermes, intent_message):
         """Handle the intent SnipsVersion."""
         installed = version()
-        result_sentence = i18n.RESULT_SNIPS_VERSION.format(i18n.tts_version(installed))
+
+        try:
+            result_sentence = i18n.RESULT_SNIPS_VERSION.format(i18n.tts_version(installed))
+        except AttributeError:  # tts_version not defined for this language
+            result_sentence = i18n.RESULT_SNIPS_VERSION.format(installed)
 
         try:
             latest = latest_snips_version()
@@ -131,6 +139,8 @@ class AssistantInformation(HermesSnipsApp):
                 result_sentence += i18n.RESULT_NEWER_VERSION_AVAILABLE
         except URLError:
             pass  # The user didn't ask for the latest version, so ignore it.
+        except AttributeError:  # RESULT_NEWER_VERSION_AVAILABLE not defined for this language
+            pass
 
         hermes.publish_end_session(intent_message.session_id, result_sentence)
 
