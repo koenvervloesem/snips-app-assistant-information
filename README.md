@@ -22,7 +22,10 @@ This app recognizes the following intents:
 *   AssistantPlatform - The user asks what platform the assistant is running on.
 *   Hostname- The user asks the assistant what hostname the Snips machine has on the local network.
 *   IPAddress - The user asks the assistant what IP address the Snips machine has on the local network.
+*   LatestSnipsVersion - The user asks the assistant what the latest available version of Snips is. 
+*   LatestSnipsVersionRunning - The user asks the assistant whether it is running the latest version of Snips. 
 *   SnipsVersion - The user asks the assistant what version of Snips it is running.
+*   Uptime - The user asks the assistant how long its machine has been running. 
 
 ## Copyright
 
