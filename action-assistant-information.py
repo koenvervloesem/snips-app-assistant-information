@@ -4,14 +4,20 @@ This module contains a Snips app that answers questions about your Snips
 assistant.
 """
 
+from datetime import datetime
 import importlib
 from pathlib import Path
 import socket
+from urllib.error import URLError
+
+import arrow
+import psutil
 
 from snipskit.apps import SnipsAppMixin
 from snipskit.hermes.apps import HermesSnipsApp
 from snipskit.hermes.decorators import intent
 from snipskit.services import version
+from snipskit.tools import latest_snips_version
 
 # Use the assistant's language.
 i18n = importlib.import_module('translations.' + SnipsAppMixin().assistant['language'])
@@ -110,13 +116,71 @@ class AssistantInformation(HermesSnipsApp):
         finally:
             s.close()
 
-        result_sentence = i18n.RESULT_IP_ADDRESS.format(ip_address)
+        try:
+            result_sentence = i18n.RESULT_IP_ADDRESS.format(i18n.tts_ip_address(ip_address))
+        except AttributeError:  # tts_ip_address not defined for this language
+            result_sentence = i18n.RESULT_IP_ADDRESS.format(ip_address)
+
         hermes.publish_end_session(intent_message.session_id, result_sentence)
 
     @intent(i18n.INTENT_SNIPS_VERSION)
     def handle_snips_version(self, hermes, intent_message):
         """Handle the intent SnipsVersion."""
-        result_sentence = i18n.RESULT_SNIPS_VERSION.format(version())
+        installed = version()
+
+        try:
+            result_sentence = i18n.RESULT_SNIPS_VERSION.format(i18n.tts_version(installed))
+        except AttributeError:  # tts_version not defined for this language
+            result_sentence = i18n.RESULT_SNIPS_VERSION.format(installed)
+
+        try:
+            latest = latest_snips_version()
+            if installed < latest:
+                result_sentence += i18n.RESULT_NEWER_VERSION_AVAILABLE
+        except URLError:
+            pass  # The user didn't ask for the latest version, so ignore it.
+        except AttributeError:  # RESULT_NEWER_VERSION_AVAILABLE not defined for this language
+            pass
+
+        hermes.publish_end_session(intent_message.session_id, result_sentence)
+
+    @intent(i18n.INTENT_LATEST_SNIPS_VERSION)
+    def handle_latest_snips_version(self, hermes, intent_message):
+        """Handle the intent LatestSnipsVersion."""
+        try:
+            latest = latest_snips_version()
+            installed = version()
+            result_sentence = i18n.RESULT_LATEST_SNIPS_VERSION.format(i18n.tts_version(latest))
+            if installed < latest:
+                result_sentence += i18n.RESULT_OLDER
+        except URLError:
+            result_sentence = i18n.RESULT_NO_RELEASE_NOTES
+
+        hermes.publish_end_session(intent_message.session_id, result_sentence)
+
+    @intent(i18n.INTENT_LATEST_SNIPS_VERSION_RUNNING)
+    def handle_latest_snips_version_running(self, hermes, intent_message):
+        """Handle the intent LatestSnipsVersionRunning."""
+        try:
+            latest = latest_snips_version()
+            installed = version()
+            if installed < latest:
+                result_sentence = i18n.RESULT_NOT_UPDATED.format(i18n.tts_version(installed),
+                                                                 i18n.tts_version(latest))
+            else:
+                result_sentence = i18n.RESULT_UPDATED.format(i18n.tts_version(installed))
+        except URLError:
+            result_sentence = i18n.RESULT_NO_RELEASE_NOTES
+
+        hermes.publish_end_session(intent_message.session_id, result_sentence)
+
+    @intent(i18n.INTENT_UPTIME)
+    def handle_uptime(self, hermes, intent_message):
+        """Handle the intent Uptime."""
+        boot_time = datetime.fromtimestamp(psutil.boot_time())
+        uptime = arrow.get(boot_time).humanize(locale=self.assistant['language'])
+
+        result_sentence = i18n.RESULT_UPTIME.format(uptime)
         hermes.publish_end_session(intent_message.session_id, result_sentence)
 
 
