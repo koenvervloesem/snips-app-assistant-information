@@ -12,19 +12,35 @@ RESULT_ASSISTANT_PLATFORM = "Ich laufe auf der {} platform."
 RESULT_HOSTNAME = "Mein Host-Name ist {}."
 RESULT_IP_ADDRESS = "Meine IP Adresse ist {}."
 RESULT_SNIPS_VERSION = "Ich laufe mit Snips version {}."
-# RESULT_NEWER_VERSION_AVAILABLE = "There's a newer version available."
-# RESULT_LATEST_SNIPS_VERSION = "The latest Snips version is {}."
-# RESULT_OLDER = "I'm still running an older version."
-# RESULT_NO_RELEASE_NOTES = "I'm sorry, I can't access the release notes of Snips."
-# RESULT_UPDATED = "I'm running the latest Snips version, {}."
-# RESULT_NOT_UPDATED = "I'm still running Snips version {}, while version {} is already available."
-# RESULT_UPTIME = "I woke up {}."
+RESULT_NEWER_VERSION_AVAILABLE = "Eine neue Version ist verfügbar."
+RESULT_LATEST_SNIPS_VERSION = "Die neuste Version von Snips ist {}."
+RESULT_OLDER = "Ich laufe noch auf einer alten Version."
+RESULT_NO_RELEASE_NOTES = "Entschuldige, ich kann die aktuellste Version nicht ermitteln."
+RESULT_UPDATED = "Ich laufe auf der neusten Version von Snips, Version {}."
+RESULT_NOT_UPDATED = "Ich laufe noch auf Snips version {}, während Version {} bereits verfügbar ist."
+RESULT_UPTIME = "Ich bin wach seit {}."
 AND = ", und "
 
 # TTS workarounds
 REPLACE_TTS_RASPI = "Raspberrie Pei"
 
-# TODO: Look at en.py for some new tts workaround functions
+def tts_ip_address(ip_address):
+    """Convert an IP address to something the TTS will pronounce correctly.
+    Args:
+        ip_address (str): The IP address, e.g. '102.168.0.102'
+    Returns:
+        str: A pronounceable IP address, e.g. '192 dot 168 dot 0 dot 102'
+    """
+    return ip_address.replace('.', ' Punkt ')
+
+def tts_version(version):
+    """Convert a version string to something the TTS will pronounce correctly.
+    Args:
+        version (str): The version string, e.g. '1.1.2'
+    Returns:
+        str: A pronounceable version string, e.g. '1 point 1 point 2'
+    """
+    return version.replace('.', ' Punkt ')
 
 # Intents
 INTENT_ASSISTANT_APPS = 'Philipp:AssistantApps'
