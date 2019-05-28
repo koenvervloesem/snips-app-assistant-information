@@ -178,7 +178,7 @@ class AssistantInformation(HermesSnipsApp):
     def handle_uptime(self, hermes, intent_message):
         """Handle the intent Uptime."""
         boot_time = datetime.fromtimestamp(psutil.boot_time())
-        uptime = arrow.get(boot_time).humanize(locale=self.assistant['language'])
+        uptime = arrow.get(boot_time).humanize(other=arrow.get(datetime.now()) ,locale=self.assistant['language'])
 
         result_sentence = i18n.RESULT_UPTIME.format(uptime)
         hermes.publish_end_session(intent_message.session_id, result_sentence)
