@@ -18,7 +18,7 @@ RESULT_OLDER = "Ich laufe noch auf einer alten Version."
 RESULT_NO_RELEASE_NOTES = "Entschuldige, ich kann die aktuellste Version nicht ermitteln."
 RESULT_UPDATED = "Ich laufe auf der neusten Version von Snips, Version {}."
 RESULT_NOT_UPDATED = "Ich laufe noch auf Snips version {}, während Version {} bereits verfügbar ist."
-RESULT_UPTIME = "Ich bin wach seit {}."
+RESULT_UPTIME = "Ich bin {} aufgewacht."
 AND = ", und "
 
 # TTS workarounds
