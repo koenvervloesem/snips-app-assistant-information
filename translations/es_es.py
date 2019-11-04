@@ -1,5 +1,5 @@
 """
-This module contains the result sentences and intents for the French version
+This module contains the result sentences and intents for the Spanish version
 of the Assistant information app.
 """
 
