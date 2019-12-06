@@ -1,0 +1,232 @@
+{
+  "customIntentData" : {
+    "language" : "en",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "can you tell me how you are called?",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me how you are called, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please tell me how you are called",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me how you are called, please",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me how you are called",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "your name, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me your name, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me what your name is, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you tell me your name?",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please tell me your name",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me your name, please",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me your name",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you tell me what your name is?",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please tell me what your name is",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me what your name is, please",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me what your name is",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what's your assistant's name?",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what is your assistant's name?",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what's your assistant name?",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what is your assistant name?",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "do you have a name?",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "how are you called?",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "how should I call you?",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "how do I call you?",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what is your name?",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "is your name snips?",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what's your name?",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_mmPvNN4Y9Gy",
+  "config" : {
+    "displayName" : "AssistantName",
+    "name" : "AssistantName",
+    "description" : "The user asks what the assistant's name is.",
+    "language" : "en",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "can you tell me how you are called?", "tell me how you are called, will you?", "please tell me how you are called", "tell me how you are called, please", "tell me how you are called", "your name, please?", "tell me your name, will you?", "tell me what your name is, will you?", "can you tell me your name?", "please tell me your name" ]
+  }
+}

@@ -1,0 +1,835 @@
+{
+  "customIntentData" : {
+    "language" : "en",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "can you do much?",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me how many apps you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me how many apps you have?",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me how many skills you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me how many skills you have?",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me how much you can do?",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me what apps you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me what skills you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me what you are capable of?",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me what you can do?",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me which apps you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me which apps you have?",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me which skills you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me which skills you have?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "how many apps do you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "how many apps do you have?",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "how many skills do you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "how many skills do you have?",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me about your abilities",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me about your apps",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me about your skills",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me how many apps you have",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me how many apps you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me how many skills you have",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me how many skills you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me how much you can do",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me what apps you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me what skills you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me what you are capable of",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me what you can do",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me which apps you have",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me which apps you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me which skills you have",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me which skills you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me about your abilities",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me about your abilities, please",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me about your abilities, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me about your apps",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me about your apps, please",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me about your apps, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me about your skills",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me about your skills, please",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me about your skills, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many apps you have",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many apps you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many apps you have installed, please",
+        "range" : {
+          "start" : 0,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many apps you have installed, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many apps you have, please",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many apps you have, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many skills you have",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many skills you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many skills you have installed, please",
+        "range" : {
+          "start" : 0,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many skills you have installed, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 53
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many skills you have, please",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how many skills you have, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how much you can do",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how much you can do, please",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how much you can do, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what apps you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what apps you have installed, please",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what apps you have installed, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what skills you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what skills you have installed, please",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what skills you have installed, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what you are capable of",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what you are capable of, please",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what you are capable of, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what you can do",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what you can do, please",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what you can do, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which apps you have",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which apps you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which apps you have installed, please",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which apps you have installed, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which apps you have, please",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which apps you have, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which skills you have",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which skills you have installed",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which skills you have installed, please",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which skills you have installed, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which skills you have, please",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which skills you have, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what apps do you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what are you capable of?",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what are your abilities?",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what can you do?",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what skills do you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "which apps do you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "which apps do you have?",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "which skills do you have installed?",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "which skills do you have?",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    } ]
+  },
+  "id" : "intent_wNKxyYygxO5",
+  "config" : {
+    "displayName" : "AssistantApps",
+    "name" : "AssistantApps",
+    "description" : "The user asks which apps the assistant has.",
+    "language" : "en",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "can you do much?", "can you tell me how many apps you have installed?", "can you tell me how many apps you have?", "can you tell me how many skills you have installed?", "can you tell me how many skills you have?", "can you tell me how much you can do?", "can you tell me what apps you have installed?", "can you tell me what skills you have installed?", "can you tell me what you are capable of?", "can you tell me what you can do?" ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "customIntentData" : {
+    "language" : "en",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "tell me how long you have been online",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how long you have been awake",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how long you have been active",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how long you have been running",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what your uptime is",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your uptime",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how long you have been online, please",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how long you have been awake, please",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how long you have been active, please",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how long you have been running, please",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what your uptime is, please",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your uptime, please",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me how long you have been online",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me how long you have been awake",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me how long you have been active",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me how long you have been running",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me what your uptime is",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me your uptime",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how long you have been online, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how long you have been awake, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how long you have been active, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me how long you have been running, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what your uptime is, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your uptime, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me how long you have been online?",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you tell me how long you have been awake?",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you tell me how long you have been active?",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you tell me how long you have been running?",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you tell me what your uptime is?",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you tell me your uptime?",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "how long have you been online?",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "uptime, please",
+        "range" : {
+          "start" : 0,
+          "end" : 14
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what is your uptime?",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "how long have you been awake?",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "how long have you been active?",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "how long have you been running?",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "uptime",
+        "range" : {
+          "start" : 0,
+          "end" : 6
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what's your uptime?",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_Qa3nqrrbKol",
+  "config" : {
+    "displayName" : "Uptime",
+    "name" : "Uptime",
+    "description" : "You ask how long the machine that Snips is installed on is running.",
+    "language" : "en",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "tell me how long you have been online", "tell me how long you have been awake", "tell me how long you have been active", "tell me how long you have been running", "tell me what your uptime is", "tell me your uptime", "tell me how long you have been online, please", "tell me how long you have been awake, please", "tell me how long you have been active, please", "tell me how long you have been running, please" ]
+  }
+}

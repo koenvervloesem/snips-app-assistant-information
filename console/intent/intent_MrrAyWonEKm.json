@@ -1,0 +1,469 @@
+{
+  "customIntentData" : {
+    "language" : "en",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "can you tell me your local IP address, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me your IP address, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me your IP, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you give me your local IP address, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you give me your IP address, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you give me your IP, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me which local IP address you are listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 60
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me which IP you are listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you  tell me which IP address you are listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 55
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me what local IP address you are listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 59
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me what IP you are listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you  tell me what IP address you are listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 54
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me your local IP address?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me your IP address?",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me your IP?",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you give me your local IP address?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you give me your IP address?",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you give me your IP?",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your local IP address, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your IP address, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your IP, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your local IP address, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your IP address, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your IP, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your local IP address, please",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your IP address, please",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your IP, please",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your local IP address, please",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your IP address, please",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your IP, please",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me your local IP address",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me your IP address",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me your IP",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please give me your local IP address",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please give me your IP address",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please give me your IP",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "which local IP address are you listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "which IP are you listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "which IP address are you listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what local IP address are you listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what IP are you listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what IP address are you listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me your local IP address",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your IP address",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your IP",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your local IP address",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your IP address",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your IP",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what's your IP",
+        "range" : {
+          "start" : 0,
+          "end" : 14
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what's your local IP address?",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what's your IP address?",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    } ]
+  },
+  "id" : "intent_MrrAyWonEKm",
+  "config" : {
+    "displayName" : "IPAddress",
+    "name" : "IPAddress",
+    "description" : "The user asks what IP address the Snips machine has on the local network.",
+    "language" : "en",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "can you tell me your local IP address, please?", "can you tell me your IP address, please?", "can you tell me your IP, please?", "can you give me your local IP address, please?", "can you give me your IP address, please?", "can you give me your IP, please?", "can you tell me which local IP address you are listening on?", "can you tell me which IP you are listening on?", "can you  tell me which IP address you are listening on?", "can you tell me what local IP address you are listening on?" ]
+  }
+}

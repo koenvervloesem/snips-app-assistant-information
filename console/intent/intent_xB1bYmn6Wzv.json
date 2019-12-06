@@ -1,0 +1,500 @@
+{
+  "customIntentData" : {
+    "language" : "en",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "please tell me which version of the Snips platform you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 66
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me which version of Snips you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 53
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me what version of the Snips platform you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 65
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me what version of Snips you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me your version of the Snips platform",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me your version of Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me your Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me which Snips version you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me what your Snips version is",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me what Snips version you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which version of the Snips platform you are running, please",
+        "range" : {
+          "start" : 0,
+          "end" : 67
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which version of Snips you are running, please",
+        "range" : {
+          "start" : 0,
+          "end" : 54
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what version of the Snips platform you are running, please",
+        "range" : {
+          "start" : 0,
+          "end" : 66
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what version of Snips you are running, please",
+        "range" : {
+          "start" : 0,
+          "end" : 53
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your version of the Snips platform, please",
+        "range" : {
+          "start" : 0,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your version of Snips, please",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your Snips version, please",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which Snips version you are running, please",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what your Snips version is, please",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me what Snips version you are running, please",
+        "range" : {
+          "start" : 0,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me which version of the Snips platform you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 59
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me which version of Snips you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me what version of the Snips platform you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 58
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me what version of Snips you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me your version of the Snips platform",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me your version of Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me your Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me which Snips version you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me what your Snips version is",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "tell me what Snips version you are running",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "check your version of the Snips platform, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "check your Snips version, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "check your version of Snips, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please check your version of the Snips platform",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please check your Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "please check your version of Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "check your version of the Snips platform, please",
+        "range" : {
+          "start" : 0,
+          "end" : 48
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "check your Snips version, please",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "check your version of Snips, please",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you check your version of the Snips platform, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 57
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you check your version of Snips, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you check your Snips version, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you check your version of the Snips platform?",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you check your version of Snips?",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "can you check your Snips version?",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "check your version of Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "which version of Snips are you running?",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what version of Snips are you running?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what is your version of Snips?",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what's your version of Snips?",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "check your version of the Snips platform",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what is your version of the Snips platform?",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what's your version of the Snips platform?",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "check your Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "which Snips version are you running?",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what is your Snips version?",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what's your Snips version?",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "what Snips version are you running?",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_xB1bYmn6Wzv",
+  "config" : {
+    "displayName" : "SnipsVersion",
+    "name" : "SnipsVersion",
+    "description" : "The user asks what version of Snips the assistant is running.",
+    "language" : "en",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "please tell me which version of the Snips platform you are running", "please tell me which version of Snips you are running", "please tell me what version of the Snips platform you are running", "please tell me what version of Snips you are running", "please tell me your version of the Snips platform", "please tell me your version of Snips", "please tell me your Snips version", "please tell me which Snips version you are running", "please tell me what your Snips version is", "please tell me what Snips version you are running" ]
+  }
+}

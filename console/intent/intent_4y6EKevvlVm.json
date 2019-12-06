@@ -1,0 +1,322 @@
+{
+  "customIntentData" : {
+    "language" : "en",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "can you tell me your hostname on the network, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 53
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you give me your hostname on the network, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 53
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me which hostname on the network you are listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 67
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me what hostname on the network you are listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 66
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me your hostname on the network?",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you give me your hostname on the network?",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your hostname on the network, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your hostname on the network, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your hostname on the network, please",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your hostname on the network, please",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me your hostname on the network",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please give me your hostname on the network",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "which hostname on the network are you listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what hostname on the network are you listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your hostname on the network",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your hostname on the network",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what's your hostname on the network?",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me your hostname, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you give me your hostname, please?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me which hostname you are listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me what hostname you are listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you tell me your hostname?",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you give me your hostname?",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your hostname, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your hostname, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your hostname, please",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your hostname, please",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please tell me your hostname",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please give me your hostname",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "which hostname are you listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what hostname are you listening on?",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "tell me your hostname",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "give me your hostname",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "what's your hostname?",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    } ]
+  },
+  "id" : "intent_4y6EKevvlVm",
+  "config" : {
+    "displayName" : "Hostname",
+    "name" : "Hostname",
+    "description" : "The user asks what hostname the Snips machine has on the local network.",
+    "language" : "en",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "can you tell me your hostname on the network, please?", "can you give me your hostname on the network, please?", "can you tell me which hostname on the network you are listening on?", "can you tell me what hostname on the network you are listening on?", "can you tell me your hostname on the network?", "can you give me your hostname on the network?", "tell me your hostname on the network, will you?", "give me your hostname on the network, will you?", "tell me your hostname on the network, please", "give me your hostname on the network, please" ]
+  }
+}

@@ -1,0 +1,1000 @@
+{
+  "customIntentData" : {
+    "language" : "en",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "Check for a new version of Snips, please",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for a new Snips version, please",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for a Snips update, please",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for an update to Snips, please",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for an update for you, please",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for an update, please",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update available for you, please",
+        "range" : {
+          "start" : 0,
+          "end" : 57
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update available, please",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update for you, please",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update, please",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new version of Snips available, please",
+        "range" : {
+          "start" : 0,
+          "end" : 62
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new version of Snips, please",
+        "range" : {
+          "start" : 0,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new Snips version available, please",
+        "range" : {
+          "start" : 0,
+          "end" : 59
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new Snips version, please",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update to Snips available, please",
+        "range" : {
+          "start" : 0,
+          "end" : 58
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update to Snips, please",
+        "range" : {
+          "start" : 0,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a Snips update available, please",
+        "range" : {
+          "start" : 0,
+          "end" : 54
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a Snips update, please",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are up-to-date, please",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are updated, please",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the newest available Snips version, please",
+        "range" : {
+          "start" : 0,
+          "end" : 72
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the newest Snips version, please",
+        "range" : {
+          "start" : 0,
+          "end" : 62
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the latest available Snips version, please",
+        "range" : {
+          "start" : 0,
+          "end" : 72
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the latest Snips version, please",
+        "range" : {
+          "start" : 0,
+          "end" : 62
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for a new version of Snips, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for a new Snips version, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for a Snips update, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for an update to Snips, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for an update for you, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for an update, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update available for you, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 60
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update available, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update for you, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new version of Snips available, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 65
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new version of Snips, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 55
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new Snips version available, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 62
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new Snips version, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update to Snips available, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 61
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update to Snips, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a Snips update available, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 57
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a Snips update, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are up-to-date, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are updated, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the newest available Snips version, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 75
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the newest Snips version, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 65
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the latest available Snips version, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 75
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the latest Snips version, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 65
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check for a new version of Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check for a new Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check for a Snips update",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check for an update to Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check for an update for you",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check for an update",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's an update available for you",
+        "range" : {
+          "start" : 0,
+          "end" : 56
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's an update available",
+        "range" : {
+          "start" : 0,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's an update for you",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's an update",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's a new version of Snips available",
+        "range" : {
+          "start" : 0,
+          "end" : 61
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's a new version of Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's a new Snips version available",
+        "range" : {
+          "start" : 0,
+          "end" : 58
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's a new Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's an update to Snips available",
+        "range" : {
+          "start" : 0,
+          "end" : 57
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's an update to Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's a Snips update available",
+        "range" : {
+          "start" : 0,
+          "end" : 53
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether there's a Snips update",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether you are up-to-date",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether you are updated",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether you are running the newest available Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 71
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether you are running the newest Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 61
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether you are running the latest available Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 71
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please check whether you are running the latest Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 61
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Check for a new version of Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check for a new Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check for a Snips update",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check for an update to Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check for an update for you",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check for an update",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update available for you",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update available",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update for you",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there an update available for you?",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there an update for you?",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there an update available?",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there an update?",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new version of Snips available",
+        "range" : {
+          "start" : 0,
+          "end" : 54
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new version of Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new Snips version available",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a new Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update to Snips available",
+        "range" : {
+          "start" : 0,
+          "end" : 50
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's an update to Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there an update to Snips available?",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there an update to Snips?",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a Snips update available",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether there's a Snips update",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there a new version of Snips available?",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there a new Snips version available?",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there a new version of Snips?",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there a new Snips version?",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there a Snips update available?",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Is there a Snips update?",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are up-to-date",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are updated",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the newest available Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 64
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the newest Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 54
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the latest available Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 64
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Check whether you are running the latest Snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 54
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Are you up-to-date?",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Are you updated?",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Are you running the newest available Snips version?",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Are you running the newest Snips version?",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Are you running the latest available Snips version?",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Are you running the latest Snips version?",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_04wQvmMxMq",
+  "config" : {
+    "displayName" : "LatestSnipsVersionRunning",
+    "name" : "LatestSnipsVersionRunning",
+    "description" : "The user asks whether he is running the latest available Snips version.",
+    "language" : "en",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "Check for a new version of Snips, please", "Check for a new Snips version, please", "Check for a Snips update, please", "Check for an update to Snips, please", "Check for an update for you, please", "Check for an update, please", "Check whether there's an update available for you, please", "Check whether there's an update available, please", "Check whether there's an update for you, please", "Check whether there's an update, please" ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name" : "Assistant information",
+  "repository" : "https://github.com/koenvervloesem/snips-app-assistant-information",
+  "changelog" : "Added link to the French translation.",
+  "description" : "You can ask some information about your Snips assistant, like its name, ID, the platform it is running on, the Snips version, the latest available Snips version, whether it's running the latest Snips version, its hostname and IP address, its uptime, the installed apps and the number of intents it understands.\n\nSome examples:\n- \"What Snips version do you have?\"\n- \"What is the latest Snips version?\"\n- \"Check for an update\"\n- \"What's your hostname?\"\n- \"What's your IP address?\"\n- \"What's your name?\"\n- \"What's your ID\"?\n- \"What platform are you running on?\"\n- \"What's your uptime?\"\n- \"Tell me about your abilities\"\n- \"How smart are you?\"\n\nMore information can be found on the GitHub page of the actions code: https://github.com/koenvervloesem/snips-app-assistant-information\n\nIf you have some suggestions for improvements, such as new training examples or new functionality, or if you found a bug, feel free to contact me at koen@vervloesem.eu and I'll be happy to add or correct it. And if you like my app, please rate it :-)\n\nThis app also exists in:\n- French: https://console.snips.ai/store/fr/skill_o93K8nmwXkD\n- German: https://console.snips.ai/store/de/skill_bgg1mzp7EB2",
+  "skillType" : "GITHUB",
+  "intents" : [ {
+    "id" : "intent_04wQvmMxMq"
+  }, {
+    "id" : "intent_4y6EKevvlVm"
+  }, {
+    "id" : "intent_ArEp7X6el37"
+  }, {
+    "id" : "intent_KXleemKeOZe"
+  }, {
+    "id" : "intent_MrrAyWonEKm"
+  }, {
+    "id" : "intent_Qa3nqrrbKol"
+  }, {
+    "id" : "intent_gynlpaBErGK1"
+  }, {
+    "id" : "intent_mmPvNN4Y9Gy"
+  }, {
+    "id" : "intent_wNKxyYygxO5"
+  }, {
+    "id" : "intent_xB1bYmn6Wzv"
+  }, {
+    "id" : "intent_yKewK0BZOxb"
+  } ],
+  "id" : "skill_MxzdQxPxXZW",
+  "language" : "en",
+  "imageUrl" : "https://console.snips.ai/images/bundles/bundle-assistant.svg"
+}
