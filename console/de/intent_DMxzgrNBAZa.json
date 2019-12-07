@@ -1,0 +1,272 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "bitte nenne mir deine snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte nenne mir deine version",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte deine snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte deine version",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "mit welcher snips version läufst du",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "mit welcher version läufst du",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche version läuft gerade",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche version hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche software hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche software version hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "gib deine snips version aus",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "auf welcher version von snips sind wir",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "auf welcher version von snips läufst du",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte die aktuelle snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir doch bitte die snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir doch mal die snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte die installierte snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte nenne mir die installierte snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist die installierte snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautet die installierte snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche version von snips hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist deine version von snips",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist deine snips version",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welcher version von snips bist du",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche version von snips ist installiert",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche version von snips läuft gerade",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche verstion von snips hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche snips version ist installiert",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche snips version läuft gerade",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche version hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "unter welcher version läufst du",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Welche snips version hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_DMxzgrNBAZa",
+  "config" : {
+    "displayName" : "SnipsVersion",
+    "name" : "SnipsVersion",
+    "description" : "Ask for snips version",
+    "language" : "de",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "bitte nenne mir deine snips version", "bitte nenne mir deine version", "nenne mir bitte deine snips version", "nenne mir bitte deine version", "mit welcher snips version läufst du", "mit welcher version läufst du", "welche version läuft gerade", "welche version hast du", "welche software hast du", "welche software version hast du" ]
+  }
+}

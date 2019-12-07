@@ -1,0 +1,403 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "Seit wann bist du wach",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte sag mir seit wann du wach bist",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir bitte seit wann du wach bist",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir seit wann du wach bist bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir seit wann du wach bist",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wie lange bist du schon wach",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Seit wann bist du an",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte sag mir seit wann du an bist",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir bitte seit wann du an bist",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir seit wann du an bist bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir seit wann du an bist",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wie lange bist du schon an",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wann bist du aufgewacht",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wann bist du aufgestanden",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wann hast du dich eingeschaltet",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wann hast du dich bitte eingeschaltet",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wie lange läufst du schon",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wie lange läufst du",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Seit wann läufst du",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir wann du angeschaltet wurdest",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir bitte wann du angeschaltet wurdest",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte sag mir wann du angeschaltet wurdest",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir wann du angeschaltet wurdest bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wann wurdest du angeschaltet",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wann wurdest du bitte angeschaltet",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir wann du eingeschaltet wurdest",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir bitte wann du eingeschaltet wurdest",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte sag mir wann du eigeschaltet wurdest",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir wann du eingeschaltet wurdest bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wann wurdest du eingeschaltet",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wann wurdest du bitte eingeschaltet",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Seit wann bist du eingeschaltet",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte sag mir seit wann du eingeschaltet bist",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir bitte seit wann du eingeschaltet bist",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir seit wann du eingeschaltet bist bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir seit wann du eingeschaltet bist",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wie lange bist du schon eingeschaltet",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Seit wann bist du angeschaltet",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte sag mir seit wann du angeschaltet bist",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir bitte seit wann du angeschaltet bist",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir seit wann du angeschaltet bist bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Sag mir seit wann du angeschaltet bist",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Wie lange bist du schon angeschaltet",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    } ]
+  },
+  "id" : "intent_o8YVKgr1pWQ",
+  "config" : {
+    "displayName" : "Uptime",
+    "name" : "Uptime",
+    "description" : "Returns the uptime",
+    "language" : "de",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "Seit wann bist du wach", "Bitte sag mir seit wann du wach bist", "Sag mir bitte seit wann du wach bist", "Sag mir seit wann du wach bist bitte", "Sag mir seit wann du wach bist", "Wie lange bist du schon wach", "Seit wann bist du an", "Bitte sag mir seit wann du an bist", "Sag mir bitte seit wann du an bist", "Sag mir seit wann du an bist bitte" ]
+  }
+}

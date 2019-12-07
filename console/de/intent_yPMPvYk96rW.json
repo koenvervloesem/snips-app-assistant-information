@@ -1,0 +1,272 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "bitte liste alle apps auf die installiert sind",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "liste bitte alle apps auf die installiert sind",
+        "range" : {
+          "start" : 0,
+          "end" : 46
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte liste alle programme auf die installiert sind",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "liste bitte alle programme auf die installiert sind",
+        "range" : {
+          "start" : 0,
+          "end" : 51
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "liste alle apps auf die installiert sind",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "liste alle programme auf die installiert sind",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "liste alle apps auf die du installiert hast",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "liste alle programme auf die du installiert hast",
+        "range" : {
+          "start" : 0,
+          "end" : 48
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir deine apps bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir deine programme bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte deine apps",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte deinen programme",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte nenne mir deine programme",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte nenne mir deine apps",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "über welche apps verfügst du",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "über welche programme verfügst du",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche programme sind gerade installiert",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche apps sind gerade installiert",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wieviele apps hast du installiert",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wieviele programme hast du installiert",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wieviele programme kennst du",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche programme hast du installiert",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche programme kennst du",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "über welche apps verfügst du",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "über welche programme verfügst du",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche programme hast du gelernt",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche apps hast du gelernt",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche apps kennst du",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche apps sind installiert",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Welche Apps hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Welche Programme hast du installiert?",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Welche Programme hast du?",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_yPMPvYk96rW",
+  "config" : {
+    "displayName" : "AssistantApps",
+    "name" : "AssistantApps",
+    "description" : "Reply with the amount of apps and their names",
+    "language" : "de",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "bitte liste alle apps auf die installiert sind", "liste bitte alle apps auf die installiert sind", "bitte liste alle programme auf die installiert sind", "liste bitte alle programme auf die installiert sind", "liste alle apps auf die installiert sind", "liste alle programme auf die installiert sind", "liste alle apps auf die du installiert hast", "liste alle programme auf die du installiert hast", "nenne mir deine apps bitte", "nenne mir deine programme bitte" ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "hast du einen namen",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist dein name",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welchen namen trägst du",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "unter welchem namen kennt man dich",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie wurdest du genannt",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "name",
+        "range" : {
+          "start" : 0,
+          "end" : 4
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautet dein name",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie wirst du genannt",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie nennst du dich selbst",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie nennst du dich",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie heist du",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte deinen namen",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sag bitte deinen namen",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sag doch mal deinen namen",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie heist du eigentlich",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie nennt man dich eigentlich",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie heist du genau",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir doch nochmal deinen namen",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte, nenne mir deinen namen",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie heist du bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sag mir deinen namen",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sag mir bitte deinen namen",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "sag mir bitte nochmal deinen namen",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie heist du nochmal",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie heist du bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie nennt man dich",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautet dein name",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie wirst du genannt",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie nennst du dich",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist dein name",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Wie heist du",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_N5Ga0ZYvrnM",
+  "config" : {
+    "displayName" : "AssistantName",
+    "name" : "AssistantName",
+    "description" : "Ask for the name\n",
+    "language" : "de",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "hast du einen namen", "wie ist dein name", "welchen namen trägst du", "unter welchem namen kennt man dich", "wie wurdest du genannt", "name", "wie lautet dein name", "wie wirst du genannt", "wie nennst du dich selbst", "wie nennst du dich" ]
+  }
+}

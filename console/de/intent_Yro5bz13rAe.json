@@ -1,0 +1,264 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "welche id hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "gib bitte deine id aus",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "gib deine identifikation aus",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "gib deine identifikation an",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "gib deine ID an",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "ID",
+        "range" : {
+          "start" : 0,
+          "end" : 2
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "identifizieren!",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir deine id bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir deine identifikation bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte deine identifikation",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte deine id",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte nenne deine identifikation",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche id hast du bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche ID hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche identifikation hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir deine identifikation",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "identifiziere dich bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte identifiziere dich",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte deine Identifikation",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte deine  ID",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautete deine Identifikation",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautet deine ID",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte nenne mir deine ID",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte nenne deine ID",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "identifiziere dich",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir deine identifikation",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir deine ID",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautet die ne identifikation",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautet deine ID",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist deine identifikation",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist deine ID",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_Yro5bz13rAe",
+  "config" : {
+    "displayName" : "AssistantID",
+    "name" : "AssistantID",
+    "description" : "Get the assistants ID",
+    "language" : "de",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "welche id hast du", "gib bitte deine id aus", "gib deine identifikation aus", "gib deine identifikation an", "gib deine ID an", "ID", "identifizieren!", "nenne mir deine id bitte", "nenne mir deine identifikation bitte", "nenne mir bitte deine identifikation" ]
+  }
+}
