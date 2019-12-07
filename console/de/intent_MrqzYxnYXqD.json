@@ -1,0 +1,272 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "mit welcher ip adresse bist du im netz",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "mit welcher ip bist du im netz",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche ip wurde dir zugewiesen",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche ip adresse ist die zugewiesen",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : " wie ist deine ip adresse",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist die ip adresse",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautet die ip",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist die ip",
+        "range" : {
+          "start" : 0,
+          "end" : 14
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist deine ip",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche ip hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "unter welcher ip erreiche ich dich",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "unter welcher adresse erreiche ich dich",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche ip wurde dir zugewiesen",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautet bitte deine ip",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautete bitte deine ip adresse",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte deine ip adresse",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "nenne mir bitte deine ip",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte nenne mir deine ip adresse",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte nenne mir deine ip",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "auf welcher ip erreiche ich dich",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "auf welcher ip adresse erreiche ich dich",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "auf welcher ip bist du zu erreichen",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche ip adresse hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "welche ip hast du",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "unter welcher ip adresse bist du zu erreichen",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "unter welcher ip bist du zu erreichen",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte sag mir deine ip adresse",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "bitte sag mir deine ip",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist deine ip",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie ist deine IP adresse",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautet deine IP Adresse",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "wie lautet deine iP",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_MrqzYxnYXqD",
+  "config" : {
+    "displayName" : "IPAddress",
+    "name" : "IPAddress",
+    "description" : "Ask for IP adress",
+    "language" : "de",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "mit welcher ip adresse bist du im netz", "mit welcher ip bist du im netz", "welche ip wurde dir zugewiesen", "welche ip adresse ist die zugewiesen", " wie ist deine ip adresse", "wie ist die ip adresse", "wie lautet die ip", "wie ist die ip", "wie ist deine ip", "welche ip hast du" ]
+  }
+}

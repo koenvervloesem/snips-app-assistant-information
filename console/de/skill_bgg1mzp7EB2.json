@@ -1,0 +1,29 @@
+{
+  "name" : "Assistents Informationen",
+  "repository" : "https://github.com/koenvervloesem/snips-app-assistant-information",
+  "changelog" : "Save SNIPS! https://www.gopetition.com/petitions/let-snips-makers-live.html\nSign today, or everything will be shut down! :(",
+  "description" : "Save SNIPS! https://www.gopetition.com/petitions/let-snips-makers-live.html\nSign today, or everything will be shut down! :(\n\nStelle deinem Assistenten ein paar Fragen zu ihm selbst. Frage nach dem Namen, der Id oder der Plattform. Erkundige dich nach der aktuellen Snips Version, der IP Adresse, den installierten Apps und der zugehörigen Anzahl an Befehlen.\n\nNeu: Frage danach, wie lange Snips schon wach/an ist!\n\nMehr Informationen und Feedback auf gerne auf GitHub:\nhttps://github.com/koenvervloesem/snips-app-assistant-information\n\nBei Ideen zur Verbesserung, neuen Trainingsdaten oder Funktionen und auch bei Fehlern. Schreibt mir:\nphil@uselessbrickwall.com\n\nOder direkt beim Programmierer der original englischen Version der App:\nkoen@vervloesem.eu\n\nJeglicher Dank für die Idee und die Umsetzung geht an Koen!\nDie original App ist hier zu finden:\nhttps://console.snips.ai/store/en/skill_MxzdQxPxXZW\n\nUnd auf französisch gibt es die App auch:\nhttps://console.snips.ai/store/fr/skill_o93K8nmwXkD\n\nWir freuen uns über jede Nachricht! Wenn dir die App gefällt, lass doch noch schnell eine Bewertung da :-)",
+  "skillType" : "GITHUB",
+  "intents" : [ {
+    "id" : "intent_3nKyo2wewKy"
+  }, {
+    "id" : "intent_DMxzgrNBAZa"
+  }, {
+    "id" : "intent_MrqzYxnYXqD"
+  }, {
+    "id" : "intent_N5Ga0ZYvrnM"
+  }, {
+    "id" : "intent_Yro5bz13rAe"
+  }, {
+    "id" : "intent_o48WQPYnzem"
+  }, {
+    "id" : "intent_o8YVKgr1pWQ"
+  }, {
+    "id" : "intent_yPMPvYk96rW"
+  }, {
+    "id" : "intent_zm9WWBPz8Ey"
+  } ],
+  "id" : "skill_bgg1mzp7EB2",
+  "language" : "de",
+  "imageUrl" : "https://console.snips.ai/images/bundles/bundle-assistant.svg"
+}
